@@ -1,0 +1,12 @@
+body {
+	background-color: whitesmoke;
+}
+
+.profil {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 50px;
+	font-family: helvetica;
+}

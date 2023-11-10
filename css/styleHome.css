@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap');
+
+body {
+	background-color: ;
+	font-family: 'Poppins', sans-serif;
+	color: ;
+	font-size: 17px;
+}
+
+.form-control {
+	font-size: 14px;
+}
+
+@media screen and (min-width: 994px) {
+.form-control {
+	width: 350px;
+}
+}
+
+@media screen and (max-width: 994px) {
+.navbar-nav {
+	text-align: center;
+}
+}
+
+/*style produk*/
+.card:hover {
+	border: 1px solid #2d2d2d;
+}
+/*style produk*/
